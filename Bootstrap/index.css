@@ -1,0 +1,9 @@
+.card {
+    height: 40vh;
+}
+
+@media ( 600px <= width <= 1024px) {
+    .card {
+        height: 50vh;
+    }
+}
